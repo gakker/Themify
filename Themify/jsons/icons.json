@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "catName": "NEON",
+        "icons": [
+            {
+                "id": 2,
+                "name": "theme27",
+                "paid": false,
+            },
+            {
+                "id": 3,
+                "name": "theme26",
+                "paid": false,
+            },
+            {
+                "id": 4,
+                "name": "theme25",
+                "paid": false,
+            },
+            {
+                "id": 5,
+                "name": "theme13",
+                "paid": false,
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "catName": "Aesthetic",
+        "icons": [
+            {
+                "id": 1,
+                "name": "theme22",
+                "paid": false,
+            },
+            {
+                "id": 3,
+                "name": "theme19",
+                "paid": false,
+            },
+            {
+                "id": 4,
+                "name": "theme18",
+                "paid": false,
+            },
+            {
+                "id": 5,
+                "name": "theme17",
+                "paid": false,
+            },
+            {
+                "id": 6,
+                "name": "theme15",
+                "paid": false,
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "catName": "Dark",
+        "icons": [
+            {
+                "id": 1,
+                "name": "theme6",
+                "paid": false,
+            },
+            {
+                "id": 2,
+                "name": "theme4",
+                "paid": false,
+            },
+            {
+                "id": 7,
+                "name": "theme3",
+                "paid": false,
+            },
+            {
+                "id": 3,
+                "name": "theme2",
+                "paid": false,
+            },
+            {
+                "id": 4,
+                "name": "theme16",
+                "paid": false,
+            },
+            {
+                "id": 5,
+                "name": "theme12",
+                "paid": false,
+            },
+            {
+                "id": 6,
+                "name": "theme10",
+                "paid": false,
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "catName": "Travel",
+        "icons": [
+            {
+                "id": 1,
+                "name": "theme21",
+                "paid": false,
+            },
+            {
+                "id": 2,
+                "name": "theme14",
+                "paid": false,
+            },
+            {
+                "id": 3,
+                "name": "theme11",
+                "paid": false,
+            },
+            {
+                "id": 4,
+                "name": "theme5",
+                "paid": false,
+            },
+            {
+                "id": 5,
+                "name": "theme7",
+                "paid": false,
+            },
+            {
+                "id": 6,
+                "name": "theme1",
+                "paid": false,
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "catName": "Recently Added",
+        "icons": [
+            {
+                "id": 2,
+                "name": "theme23",
+                "paid": false,
+            },
+            {
+                "id": 3,
+                "name": "theme8",
+                "paid": false,
+            },
+            {
+                "id": 4,
+                "name": "theme10",
+                "paid": false,
+            },
+            {
+                "id": 5,
+                "name": "theme9",
+                "paid": false,
+            }
+        ]
+    }
+
+]
